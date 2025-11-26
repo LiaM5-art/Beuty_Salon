@@ -1,4 +1,4 @@
-![Beauty Salon Banner](https://copilot.microsoft.com/th/id/BCO.9a8e23dc-4b8a-4611-b981-549e353fef49.png)
+![Beauty Salon Banner](https://your-image-link.com/banner.png)
 
 # 🌸 Beauty Salon Portfolio
 # Beauty Salon Portfolio ✨
